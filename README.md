@@ -2,19 +2,19 @@
 
 ## Project details
 
-**Project of FIB-LAB, Tsinghua University** 
+**Project of ** 
 
-**Developer names: ZhiHong Lu, JingWei Wang, JiaHui Gong**
+**Developer names: **
 
-**Advisor: Prof. Yong Li**
+**Advisor: **
 
 ## Implementation
 
-**Source Code: https://github.com/jingwei-18/Debiasing-Trajectory-Prediction**
+**Source Code: **
 
 **Paper:**
 
-**P.S. Because the datasets used (Mobile Operator Dataset and Social Network Platform Dataset) are not available to pulic, an small example of dataset format is provided (See documentation of user2info.json and user2traj.json)**
+**P.S. Because some datasets used (Mobile Operator Dataset and Social Network Platform Dataset) are not available to pulic, a small example of dataset format is provided (See documentation of user2info.json and user2traj.json)**
 
 ## Documentation
 
